@@ -1,0 +1,192 @@
+body { 
+border-color:greytext-align: center;;
+background-image: url("http://www.google.fr/url?source=imglanding&ct=img&q=http://img0.mxstatic.com/wallpapers/c4511e0f37d37c279f8bba7f518ed629_large.jpeg&sa=X&ei=jzNfVYnXNMfxUtu5geAN&ved=0CAkQ8wc&usg=AFQjCNG7jhTuteZKvmwCErQ7dKjBAQ2Iew");
+background-position: center;
+font-family: 'Noto Serif', serif;
+text-align: center;
+margin:0px;
+position: relative;
+}
+
+section {
+color:white;
+font-size: 20px;
+}
+
+
+
+/* header */
+#header{
+height:130px;
+background-image: url(fond_header2.jpg) ;
+background-size : cover;
+box-shadow: 0 0 50px black;
+}
+
+header {
+color : grey;
+margin-top : -130;
+margin-bottom: 50px;
+}
+
+header h2 {
+font-size : 20px;
+margin-top: -10px;
+margin-bottom: -5px;
+
+}
+h1{
+font-size: 500px;
+margin-bottom : 150px;
+margin-top : -120px;
+
+}
+
+nav {
+width : 800px;
+margin: auto;
+}
+
+nav li{
+display: inline-block;
+list-style-type:none;
+margin-right : 90px;
+margin-top: 20px;
+font-size : 20px;
+
+}
+
+nav a:hover {
+color: black;
+}
+
+
+
+
+/*  intro    */
+
+#description {
+
+font-size: 20px;
+line-height: 50px;
+
+}
+
+
+/*ligne*/
+
+hr {
+
+margin: auto;
+width : 50%;
+}
+
+
+/* Jamice */
+
+#Jamice{
+width : 200px;
+border-radius: 20px;
+}
+
+
+
+h2 {
+color: white ;
+font-size:150px;
+margin: auto;
+}
+
+.col-md-7 {
+font-size: 20px;
+text-align: center;
+margin-left : 20px;
+
+}
+
+#professeur {
+width : 70%;
+margin-left : 130px;
+margin-top: 10px;
+}
+
+/*video*/
+
+#video {
+margin-top : 20px;
+
+}
+
+
+/*Bas de page */
+
+#reseaux_sociaux1{
+
+float: right;
+position: absolute;
+bottom: 0;
+right:0;
+list-style-type:none;
+
+}
+#reseaux_sociaux2{
+
+float: right;
+position: absolute;
+bottom: 5px;
+right:80px;
+list-style-type:none;
+
+}
+
+
+
+
+/* COURS */
+
+#structure{
+
+margin-left: -5px;
+}
+
+
+li {
+
+list-style-type:none;
+}
+
+
+
+
+
+
+
+/*INFORMATIONS PRATIQUES*/
+
+
+/* carte*/
+#titre {
+font-size:30px;
+}
+
+
+/* contact */
+
+#contact {
+margin-top: 150px;
+}
+
+
+/*Bas de page */
+
+footer img {
+
+float: right;
+
+
+}
+
+
+
+
+

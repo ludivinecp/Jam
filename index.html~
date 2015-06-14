@@ -1,0 +1,100 @@
+<html>
+<head>
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<link href="style.css" rel="stylesheet" type="text/css"> 
+	<link href="bootstrap-3.3.4-dist/css/bootstrap.css" rel="stylesheet" type="text/css"> 	
+	<link href="bootstrap-3.3.4-dist/css/bootstrap-theme.css" rel="stylesheet" type="text/css"> 
+	<link href='http://fonts.googleapis.com/css?family=Noto+Serif' rel='stylesheet' type='text/css'>
+
+	<title> Vocal institut, école de chant </title>
+
+</head>
+
+
+
+<body>
+
+<div id="header"> 
+</div>
+
+<header>
+ 	
+	<h1> Vocal Institut </h1>
+	<h2>Ecole de chant </h2>
+	<nav>
+		<ul>
+
+		<li> <a href="index.html">Accueil </a> </li>
+		<li> <a href="cours.html"> Cours  </a> </li>		
+		<li> <a href="informations_pratiques.html">Informations pratiques </a></li>
+		
+		
+
+		</ul>
+	</nav>
+
+</header>
+
+<section>
+	<div class="row">
+			<div class="col-md-12">
+				<article id="description">				
+				<p>
+					Vous êtes passionnés de chant ? </br>
+					Vous avez toujours eu envie de chanter sans oser franchir le pas ? </br>
+					Vous êtes amateurs ou professionnels et vous souhaitez développer votre potentiel artistique ? </br>
+					Prenez des cours de chant, Vocal Institut est fait pour vous ! </br>
+					</p>
+
+					<hr>
+				</article>
+	</div>
+			
+			
+			
+			<div class="col-md-7">
+					
+						<h2> Jamice, professeur passionné </h2>
+
+					<img id="Jamice" src="jamice.jpg" alt="Jamice" /> 
+
+					<article id="professeur">
+						<p>"Je suis professeur de chant depuis 2002. J'ai enseigné essentiellement en cours individuel mais aussi animé des ateliers et session de chœurs. </br>
+						Allant des cours de découverte/éveil du chant pour les enfants, débutants, amateurs mais aussi professionnels pour des préparations d'auditions ou 
+						accompagnements en studio d'enregistrements ou préparation à la scène. J'ai une carrière en tant que chanteur depuis 2000 et 5 albums commercialisés."</p>
+					</article>
+	
+	</div>
+
+			<div class="col-md-3">
+	
+
+
+					<article id="video"> 
+						<iframe width="420" height="315" src="https://www.youtube.com/embed/ENRLfGDR38Y" frameborder="0" allowfullscreen></iframe>
+
+					</article>
+	</div>
+
+				
+	</div>
+
+					</section>
+
+
+	
+					
+				<footer>
+ 					<li id="reseaux_sociaux1"><a href="https://www.facebook.com/vocal.institut?fref=ts" > <img src="facebook.png"/> </a> </li>
+					<li id="reseaux_sociaux2"> <a href="http://www.deezer.com/artist/144910"> <img src="deezer.png"/> </a> </li>
+				</footer>	
+		
+
+
+
+
+
+</body>
+</html>

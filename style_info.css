@@ -1,0 +1,95 @@
+body { 
+border-color:greytext-align: center;;
+background-image: url("http://www.google.fr/url?source=imglanding&ct=img&q=http://img0.mxstatic.com/wallpapers/c4511e0f37d37c279f8bba7f518ed629_large.jpeg&sa=X&ei=jzNfVYnXNMfxUtu5geAN&ved=0CAkQ8wc&usg=AFQjCNG7jhTuteZKvmwCErQ7dKjBAQ2Iew");
+background-position: center;
+font-family: 'Noto Serif', serif;
+text-align: center;
+margin:0px;
+position: relative;
+
+}
+
+section {
+color:white;
+font-size: 20px;
+}
+
+
+
+/* header */
+#header{
+height:130px;
+background-image: url(fond_header2.jpg) ;
+background-size : cover;
+box-shadow: 0 0 50px black;
+}
+
+header {
+color : grey;
+margin-top : -130;
+margin-bottom: 50px;
+}
+
+header h2 {
+font-size : 20px;
+margin-top: -10px;
+margin-bottom: -5px;
+
+}
+h1{
+font-size: 500px;
+margin-bottom : 150px;
+margin-top : -120px;
+
+}
+
+nav {
+width : 800px;
+margin: auto;
+}
+
+nav li{
+display: inline-block;
+list-style-type:none;
+margin-right : 90px;
+margin-top: 20px;
+font-size : 20px;
+
+}
+
+nav a:hover {
+color: black;
+}
+
+
+
+
+/*  intro    */
+
+
+
+
+/* carte*/
+#titre {
+font-size:30px;
+}
+
+
+/* contact */
+
+#contact {
+margin-top: 150px;
+}
+
+
+/*Bas de page */
+
+footer img {
+
+float: right;
+
+
+}
+
+
+
